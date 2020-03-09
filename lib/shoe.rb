@@ -13,7 +13,7 @@ class Shoe
   def condition
 if cobble
   @condition =  "new"
-
+end
 end
 
 
