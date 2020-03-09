@@ -11,8 +11,8 @@ class Shoe
      puts "Your shoe is as good as new!"
   end
   def condition
-if @cobble
-  @condition =  "new" 
+if cobble
+  @condition =  "new"
 
 end
 
