@@ -14,5 +14,5 @@ class Shoe
   @condition =  "new" if @cobble
 end
 
-  end
+  
 end
